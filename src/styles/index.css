@@ -29,3 +29,6 @@ input {
     border: none;
     width: 100%;
 }
+button {
+    float: right;
+}
